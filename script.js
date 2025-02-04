@@ -87,16 +87,6 @@ let currentDepartment = '';
 let currentSemester = '';
 let currentCourse = '';
 
-// Clock update function
-function updateClock() {
-  const now = new Date();
-  clockElement.textContent = now.toLocaleTimeString();
-}
-
-// Update clock every second
-updateClock();
-setInterval(updateClock, 1000);
-
 // Event Listeners
 proceedButton.addEventListener('click', showCourses);
 backButton.addEventListener('click', () => {
