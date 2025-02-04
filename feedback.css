@@ -107,7 +107,11 @@ textarea {
   }
 
   .submit-btn {
-    font-size: 14px;
-    padding: 8px 14px;
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+
+  .back-link a {
+    margin-top: 10px;
   }
 }
