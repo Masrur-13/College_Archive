@@ -1,0 +1,88 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="MEC_LOGO.png" type="image/x-icon" />
+    <title>College Archive</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="clock" class="clock"></div>
+      <span class="logo"
+        ><img src="./MEC_LOGO.png" alt="MEC_LOGO" width="80px"
+      /></span>
+      <h1>College Archive Portal</h1>
+
+      <div class="selection-container">
+        <div class="selection-box">
+          <label for="department">Select Department:</label>
+          <select id="department">
+            <option value="">Choose Department</option>
+            <option value="CSE">CSE</option>
+            <option value="EEE">EEE</option>
+            <option value="CE">CE</option>
+          </select>
+        </div>
+
+        <div class="selection-box">
+          <label for="semester">Select Semester:</label>
+          <select id="semester">
+            <option value="">Choose Semester</option>
+            <option value="1">1st Semester</option>
+            <option value="2">2nd Semester</option>
+            <option value="3">3rd Semester</option>
+            <option value="4">4th Semester</option>
+            <option value="5">5th Semester</option>
+            <option value="6">6th Semester</option>
+            <option value="7">7th Semester</option>
+            <option value="8">8th Semester</option>
+          </select>
+        </div>
+
+        <button id="proceed">Proceed</button>
+      </div>
+
+      <div id="courseContent" class="course-content" style="display: none">
+        <h2 id="headerInfo"></h2>
+        <div id="courseList" class="course-list"></div>
+      </div>
+
+      <div id="resourceContent" class="resource-content" style="display: none">
+        <button id="backButton" class="back-button">← Back</button>
+        <h2 id="courseHeader"></h2>
+        <div class="resources-grid">
+          <div class="resource-category">
+            <h3>Notes</h3>
+            <ul>
+              <li><a href="#" data-folder="MEC">MEC</a></li>
+              <li><a href="#" data-folder="FEC">FEC</a></li>
+              <li><a href="#" data-folder="NITER">NITER</a></li>
+            </ul>
+          </div>
+          <div class="resource-category">
+            <h3>Books</h3>
+            <ul>
+              <li><a href="#" data-folder="books">View Books</a></li>
+            </ul>
+          </div>
+          <div class="resource-category">
+            <h3>CT Questions</h3>
+            <ul>
+              <li><a href="#" data-folder="MEC">MEC</a></li>
+              <li><a href="#" data-folder="FEC">FEC</a></li>
+              <li><a href="#" data-folder="NITER">NITER</a></li>
+            </ul>
+          </div>
+          <div class="resource-category">
+            <h3>Final Exam Questions</h3>
+            <ul>
+              <li><a href="#" data-folder="final">View Questions</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
