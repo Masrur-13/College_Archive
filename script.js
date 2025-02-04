@@ -39,7 +39,7 @@ const driveLinks = {
     1: {
       CSE1101: {
         notes: {
-          MEC: 'https://drive.google.com/drive/folders/your-folder-id',
+          MEC: 'https://drive.google.com/drive/u/1/folders/1sTTEqXinl1mFsLRbA3osAgnqvoBEHZw6',
           FEC: 'https://drive.google.com/drive/folders/your-folder-id',
           NITER: 'https://drive.google.com/drive/folders/your-folder-id',
         },
