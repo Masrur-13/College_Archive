@@ -187,4 +187,9 @@ button:hover {
   h1 {
     margin: 1rem auto;
   }
+
+  .feedback {
+    margin: 0.5rem auto;
+    text-decoration: none;
+  }
 }
