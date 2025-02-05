@@ -9,7 +9,16 @@
   <body>
     <div class="form-container">
       <h1>Provide Feedback</h1>
-      <form action="#" method="post" class="feedback-form">
+      <form
+        action="https://api.web3forms.com/submit"
+        method="post"
+        class="feedback-form"
+      >
+        <input
+          type="hidden"
+          name="access_key"
+          value="be4ba217-e870-49da-85b6-6cdf74ac1a3c"
+        />
         <div class="form-group">
           <label for="name">Name</label>
           <input type="text" id="name" name="name" required />
