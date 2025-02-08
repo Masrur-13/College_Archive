@@ -209,7 +209,219 @@ const driveLinks = {
           'https://drive.google.com/drive/u/1/folders/17gRcTMZxbK2DJcqR0EXmS5QK99RLKKAj',
       },
     },
+    3: {
+      CSE2101: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/107IKDzBPGZ8aQLGChGDksmgWT1SahNhY',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1ENmLjwv3E28sNb1CdwrCz9Osa-a1DsI8',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1rR4Yppp5OduqhAC5ffTLeg1JoM1v0DcO',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1vfTcGqUsKGePaXFHm-eM0V-HoBsxcwmT',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/1t2KjcVWZ-BBopn-_mG-xuqgg7OpQ_3N6',
+      },
+      CSE2102: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/15jn3t2eTBVJImmVOTFzEFMlldvDz4gEF',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1eGdQTztFsZLlWczcubfTzVTe4kXciOKG',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1M6wCqmQa-vFwZ1S0E3nYlqi7pvKOc5jH',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1WacOhRGUSubpTkul3y7_Z9Q2f6mBim5O',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/1ohf86w3xbYWqSprqPJRFAABSHZvHs6HU',
+      },
+      CSE2103: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1ijWws3QMEbWuMEYmYZnkTuWtGyNbq-5N',
+          FEC: 'https://drive.google.com/drive/u/1/folders/13Nb2-enTlqv2P4-JIBK0sFKvTHH6-jtP',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1bMN6FhkQ_nruq_IU4vOOEhhsEci3627U',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/18r-TYRE78QJoaf9m6dKJlq5yVJQ7kATe',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/1poh5YAweKOSLzhYgJ99v0GdSq80j0Xy6',
+      },
+      EEE2104: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1O51QMMsF_0W2IV1PTm5LuxKfqmu_z74a',
+          FEC: 'https://drive.google.com/drive/u/1/folders/10cLsyoha9XP8UOXz7PwXFYNO2VWfBb1s',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1KFgsb2HpbfvfDlVoEhNBjWDFYTpBlVYF',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1w1dSfCgcHG8fg58DY-xzY_Zb6nNpoMlD',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/187pnP5aTWBW-y0nJUjFNnm-4u7zZGov3',
+      },
+      MATH2105: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1t7H1TdI1VgLQ0ihyC5LpU-j6y022Nrdj',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1W98XomKK6OuzbYdDLYVKgChU3UvzLpM2',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/19bLeKSLiG2UqZMDgQ2HAobyBgd3uwTWS',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1tsanKKvSUO6Tx4d5hyYgMEfsN822Qb9B',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/176KQN2R7KIWHcMQACoSA40GB-3VJ35C7',
+      },
+      SS2106: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1uF4HKSoJnHnK-ciNjow7vASof-nqZlv9',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1uCMmv0-2K9IFAmIfWJ2CYHddy3KKQWk-',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1XlrL9X1l8lgr6XKFTk5k0eq-2kG6rMsC',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1f5B9pkZsCeL4BifNizjgc7v9_b1MRF4v',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/1eoKe4qLMAolxN98acPMNXK6jumlEhWxP',
+      },
+    },
+    4: {
+      CSE2201: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/107IKDzBPGZ8aQLGChGDksmgWT1SahNhY',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1ENmLjwv3E28sNb1CdwrCz9Osa-a1DsI8',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1rR4Yppp5OduqhAC5ffTLeg1JoM1v0DcO',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1vfTcGqUsKGePaXFHm-eM0V-HoBsxcwmT',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/1t2KjcVWZ-BBopn-_mG-xuqgg7OpQ_3N6',
+      },
+      CSE2202: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/15jn3t2eTBVJImmVOTFzEFMlldvDz4gEF',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1eGdQTztFsZLlWczcubfTzVTe4kXciOKG',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1M6wCqmQa-vFwZ1S0E3nYlqi7pvKOc5jH',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1WacOhRGUSubpTkul3y7_Z9Q2f6mBim5O',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/1ohf86w3xbYWqSprqPJRFAABSHZvHs6HU',
+      },
+      CSE2203: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1ijWws3QMEbWuMEYmYZnkTuWtGyNbq-5N',
+          FEC: 'https://drive.google.com/drive/u/1/folders/13Nb2-enTlqv2P4-JIBK0sFKvTHH6-jtP',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1bMN6FhkQ_nruq_IU4vOOEhhsEci3627U',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/18r-TYRE78QJoaf9m6dKJlq5yVJQ7kATe',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/1poh5YAweKOSLzhYgJ99v0GdSq80j0Xy6',
+      },
+      CSE2204: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1O51QMMsF_0W2IV1PTm5LuxKfqmu_z74a',
+          FEC: 'https://drive.google.com/drive/u/1/folders/10cLsyoha9XP8UOXz7PwXFYNO2VWfBb1s',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1KFgsb2HpbfvfDlVoEhNBjWDFYTpBlVYF',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1w1dSfCgcHG8fg58DY-xzY_Zb6nNpoMlD',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/187pnP5aTWBW-y0nJUjFNnm-4u7zZGov3',
+      },
+      CSE2205: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1t7H1TdI1VgLQ0ihyC5LpU-j6y022Nrdj',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1W98XomKK6OuzbYdDLYVKgChU3UvzLpM2',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/19bLeKSLiG2UqZMDgQ2HAobyBgd3uwTWS',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1tsanKKvSUO6Tx4d5hyYgMEfsN822Qb9B',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/176KQN2R7KIWHcMQACoSA40GB-3VJ35C7',
+      },
+    },
     // Add similar structure for other semesters
+  },
+  EEE: {
+    1: {
+      EEE101: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1EODHsQPvQDwA8vumdMZOGbTdwVw1B7mF',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1cPFjLs8_WqzLenGPbY8i_fVn9NyZ14Fa',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/11OkVy33EtJp4xfsZz9KNf0JSKN62kv6b',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1Qm_PkmehJMaHZXG--VmQMfsy_5yOhEqV',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/1HhRgAlOkCA34ocFt_H2Y4HGWTK7eNAPt',
+      },
+      EEE102: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1nn2XgujKPpwVlTvEghphmkRncxk2b7OF',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1j5WL6xSxG7ZNGoYLq8hRdEwGBKW8JBni',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1yg2RzL0EaYVYuKr6jq-89ufysNdRbols',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1oNqrhpHDe4pKIrIPegpM44pZM1oYzRnK',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/1BAkYuwO7oH9wESol5IKX-hdbz89WA5ng',
+      },
+      EEE103: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1gMAer5d6E52TJhuXBepazVEOqjnxYAr5',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1HEQoE25UQSRAIFOjxaLakkiddv0ZIRkI',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/10wAJVMEQ0NkUJ-B8l63q9AB1poDxRFxp',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1u7UDWzxeCK062y13NpQTEAwa-6TRcax2',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/1wOX-Hm7SFCtHxw61qqbzRcNlv80TGFrX',
+      },
+      EEE104: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1q0Al-CH7a0ncxmiZNPnbavS_ssmRc5qd',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1Jy7Zu-w9IXoyop2JYPA7dzJMjgMgMANc',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1985vbh29gDbzLFx36py-ff94OXkOZzu0',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1jMkk6syWLKQqgfMC20rwhTMn9CsQwoLh',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/17MdfgZRs6Y3f6dqFw_I4y17cTgAoxSZB',
+      },
+      EEE105: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1KDDfVEPiqs2VxJOxPQCxPNlbNVVo3a_K',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1KhUVmaqtOiuNcEA6ONtw7BnNjZ76ievG',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1aVsAMeNSQfV_O1sjcquVwwJMPd2feGl_',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1TWGvKkaHrRZ08u2mQOSWUV3mt59XVs83',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/17gRcTMZxbK2DJcqR0EXmS5QK99RLKKAj',
+      },
+      EEE106: {
+        notes: {
+          MEC: 'https://drive.google.com/drive/u/1/folders/1KDDfVEPiqs2VxJOxPQCxPNlbNVVo3a_K',
+          FEC: 'https://drive.google.com/drive/u/1/folders/1KhUVmaqtOiuNcEA6ONtw7BnNjZ76ievG',
+          NITER:
+            'https://drive.google.com/drive/u/1/folders/1aVsAMeNSQfV_O1sjcquVwwJMPd2feGl_',
+        },
+        books:
+          'https://drive.google.com/drive/u/1/folders/1TWGvKkaHrRZ08u2mQOSWUV3mt59XVs83',
+        finalExam:
+          'https://drive.google.com/drive/u/1/folders/17gRcTMZxbK2DJcqR0EXmS5QK99RLKKAj',
+      },
+    },
   },
   // Add similar structure for other departments
 };
