@@ -186,9 +186,15 @@ button:hover {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: #007bff;
   font-weight: 600;
   margin-top: 6px;
+}
+
+.feedback,
+.bmi,
+.weather {
+  text-decoration: none;
+  color: rgb(76, 29, 149);
 }
 
 @media screen and (max-width: 550px) {
