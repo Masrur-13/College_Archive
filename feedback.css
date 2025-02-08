@@ -35,7 +35,8 @@ h1 {
 
 label {
   font-size: 16px;
-  color: #555;
+  color: #222;
+  font-weight: 500;
 }
 
 input[type='text'],
@@ -45,13 +46,19 @@ textarea {
   padding: 10px;
   font-size: 16px;
   margin-top: 5px;
-  border: 1px solid #ddd;
+  border: 1px solid #e0e0e0;
   border-radius: 4px;
   box-sizing: border-box;
 }
 
+input[type='text']::placeholder {
+  font-family: 'Nunito', sans-serif;
+  font-size: 15px;
+}
+
 textarea {
   resize: none;
+  font-family: 'Nunito', sans-serif;
 }
 
 .submit-btn {
