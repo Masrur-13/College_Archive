@@ -190,11 +190,18 @@ button:hover {
   margin-top: 6px;
 }
 
-.feedback,
-.bmi,
-.weather {
-  text-decoration: none;
-  color: rgb(76, 29, 149);
+@media screen and (min-width: 720px) {
+  .feedback,
+  .bmi,
+  .weather {
+    text-decoration: none;
+    color: #4d1d95ac;
+  }
+  .feedback:hover,
+  .bmi:hover,
+  .weather:hover {
+    color: #4c1d95;
+  }
 }
 
 @media screen and (max-width: 550px) {
@@ -224,5 +231,6 @@ button:hover {
     text-decoration: none;
     text-align: center;
     text-decoration: none;
+    color: #4d1d95;
   }
 }
