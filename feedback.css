@@ -56,6 +56,16 @@ input[type='text']::placeholder {
   font-size: 15px;
 }
 
+input[type='email']::placeholder {
+  font-family: 'Nunito', sans-serif;
+  font-size: 15px;
+}
+
+textarea::placeholder {
+  font-family: 'Nunito', sans-serif;
+  font-size: 15px;
+}
+
 textarea {
   resize: none;
   font-family: 'Nunito', sans-serif;
